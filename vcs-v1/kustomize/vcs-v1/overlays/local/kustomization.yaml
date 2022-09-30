@@ -72,3 +72,6 @@ resources:
 patchesStrategicMerge:
 - vcs/add-ca.yml
 - vcs/add-key.yml
+
+components:
+- ../../components/local-kms
